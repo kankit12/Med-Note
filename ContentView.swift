@@ -1,9 +1,6 @@
-//
+
 //  ContentView.swift
 //  MedNote
-//
-//  Created by Ankit on 4/2/25.
-//
 
 import SwiftUI
 
